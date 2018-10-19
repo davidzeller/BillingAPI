@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillingAPI", "BillingAPI\BillingAPI.csproj", "{74BC76B6-FB18-4595-A1FB-FE35A07E085E}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DB", "ADBaaS-ITBilling\DB.sqlproj", "{81F4FA79-8379-4FA9-903C-331EED5A60A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74BC76B6-FB18-4595-A1FB-FE35A07E085E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BC76B6-FB18-4595-A1FB-FE35A07E085E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BC76B6-FB18-4595-A1FB-FE35A07E085E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BC76B6-FB18-4595-A1FB-FE35A07E085E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81F4FA79-8379-4FA9-903C-331EED5A60A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F4FA79-8379-4FA9-903C-331EED5A60A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F4FA79-8379-4FA9-903C-331EED5A60A9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{81F4FA79-8379-4FA9-903C-331EED5A60A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F4FA79-8379-4FA9-903C-331EED5A60A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81F4FA79-8379-4FA9-903C-331EED5A60A9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B487DA2-C834-46A1-A832-29CBAD8DBC52}
+	EndGlobalSection
+EndGlobal
